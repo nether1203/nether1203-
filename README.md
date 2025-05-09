@@ -34,8 +34,8 @@
 ---
 
 ## 📫 Contact Me:
-- Discord: `nether1203`
-- Email: *add your email if you want*
+- Discord: `nazar064199`
+- Email: *tomasevicnazar9@gmail.com*
 
 ---
 
