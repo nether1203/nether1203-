@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Nazar Tomashovych
+# 👋 Hi! I'm Nazar Tomashevych
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Web+developer+in+the+making;I+love+coding+and+learning+new+things!" alt="Typing SVG" />
 
